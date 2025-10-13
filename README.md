@@ -1,6 +1,6 @@
 # ReFIne
 
-* This is the official repository for the paper: [**ReFIne: A Framework for Trustworthy Large Reasoning Models with Reliability, Faithfulness, and Interpretability**]()
+* This is the official repository for the paper: [**ReFIne: A Framework for Trustworthy Large Reasoning Models with Reliability, Faithfulness, and Interpretability**](https://arxiv.org/abs/2510.09062)
 * We propose **ReFIne**, a new framework to train Large Reasoning Models with desired trustworthiness (reliability + faithfulness + interpretability)
   
 <p align="center">
