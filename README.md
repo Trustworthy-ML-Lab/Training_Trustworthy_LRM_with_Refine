@@ -350,7 +350,7 @@ Chung-En Sun, Ge Yan, Akshay Kulkarni, Tsui-Wei Weng, “ReFIne: A Framework for
 @article{ReFIne,
    title={ReFIne: A Framework for Trustworthy Large Reasoning Models with Reliability, Faithfulness, and Interpretability},
    author={Sun, Chung-En and Yan, Ge and Kulkarni, Akshay and Weng, Tsui-Wei},
-   journal={arXiv},
-   year={2025}
+   journal={COLM},
+   year={2026}
 }
 ```
